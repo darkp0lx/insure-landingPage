@@ -36,6 +36,7 @@ header .list-menu.active {
   background: #2b272f;
   top: 69px;
   left: 0;
+  transition:1s ease in;
   font-size: 1.5em;
   color: white;
 }
